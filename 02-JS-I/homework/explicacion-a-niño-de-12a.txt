@@ -1,0 +1,79 @@
+Homework 02-JS-I
+Adan Berrio
+
+Explicando a un niño de 12 años
+
+*Variables: Es una caja donde podemos guardar algo que se puede usar cuando lo necesitemos. A las variables debemos asignarle
+un nombre conocido y un valor, para y asi utilizarla. Esto lo hacemos en JS de la siguiente manera:
+
+```javascript
+    var edadJuan = '12 años'; 
+```
+Existen dos tipos mas de viables. Const (De valores constantes, no cambian), y Let, que se vera mas adelante
+
+*Strings: Es una cadena, es un texto o bloques de textos o palabras, pero debera estar siempre entre comillas, de la siguiente manera:
+
+```javascript
+var colorAuto = 'Azul';
+```
+
+* Funciones (argumentos, `return`): Una funcion es una caja que hace algo y lo mismo siempre que la ultilizamos. 
+A esta caja le podemos dar un nombre relacionado a lo que hace, luego se colocan parentesis abierto y cerrado acompañado de corchetes 
+abierto y cerrado. 
+
+Dentro del corchete vamos a decir a la caja que va a hacer. 
+
+Todo esto lo hacemos de la siguiente manera:
+
+```javascript
+function colorCielo() {
+    console.log('El color del cielo es azul!');
+}
+
+colorCielo();
+```
+
+*Argumento: Es la informacion que necesita mostrar o usar la caja cuando hace algo. Es ta informacion la toma de una o varias variables.
+
+Esto lo hacemos de la siguiente manera.
+
+```javascript
+function colorCielo(color) {
+    console.log(`El color del cielo es ${color}!`);
+}
+
+var color = 'azul';
+colorCielo(color);
+```
+
+*Return: Es similar a console.log, pero Return nos muestra el resultado que nos da la caja o la funcion que creamos cuando hace algo,
+y es la unica forma en que los datos salen de una funcion. Esto lo podemos hacer de la siguiente manera:
+
+```javascript
+function sumarDosNumeros(a, b) {
+  var sumar = a + b;
+  return sumar;
+}
+
+sumarDosNumeros(6, 3); // 9
+```
+*Declaraciones if: Es una manera de preguntar en una funcion si algo es verdadero o falso y segun el resultado 
+de la pregunta se realiza una accion. Por ejemplo: 
+
+```javascript
+function fresquito(temperatura) {
+    if (temperatura < 17) {
+        return true;
+    }
+
+    return false;
+}
+
+fresquito(13); // true
+```
+
+* Valores booleanos (`true`, `false`): Es el resultado de la pregunta realizada en la declaracion if, que sea verdadera la respuesta (true) 
+ó que esta sea falsa (false)
+
+
+
