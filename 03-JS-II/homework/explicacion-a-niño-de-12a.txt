@@ -1,0 +1,16 @@
+Homework 03-JS-II 
+Adan Berrio
+
+Explicando a un niño de 12 años.
+
+*for: nos permite repetir varias veces un segmento de codigo hasta conseguir
+un resultado deseado. Para que funcione el ciclo for debemos definir 
+que variable cambiara, el valor limite o final que alcanzara la variable, 
+y la forma en la cual va cambiando la variable.
+
+*&&: Es un operador logico 'Y' llamado 'AND', evalua dos expresiones y da resultado 'true'
+siempre y cuando ambas expresiones evaluadas sean 'true'.
+
+*||: Es un operador logico llamado 'Ó','OR', se escribe con dos barras verticales, este compara dos expresiones y da resultados verdadero si al menos una de las dos expresiones evaluadas es verdadera.
+
+*!: Es un operador logico llamado 'NOT', 'NO', se escribe con un signo de exclamación, este operador cambia un resultado verdadero o falso a su opuesto.
