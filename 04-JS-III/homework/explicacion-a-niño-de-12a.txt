@@ -1,0 +1,9 @@
+Homework 04-JS-III 
+Adan Berrio
+
+Explicando a un niño de 12 años.
+
+*Array:Son contenedores muy grandes que pueden guardar muchos tipos de datos,
+como cadenas, numeros, datos booleanos, otras variables, e incluso varias matrices, ademas
+podemos acceder en cualquier momento a estos contenedores, asignar, buscar, borrar, iterar, 
+comparar etc, sus elementos.
