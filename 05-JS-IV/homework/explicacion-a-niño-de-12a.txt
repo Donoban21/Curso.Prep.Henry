@@ -1,0 +1,17 @@
+Homework 05-JS-IV 
+Adan Berrio
+
+Explicando a un niño de 12 años.
+
+*Objetos: Un objeto contiene datos de manera similar a las matrices, pero se diferencia en que el objeto tiene mucha informacion
+pero de una sola cosa. Los objetos se diferencian usando llaves {}.
+
+*Propiedades: Estas pueden verse como nombre de variables que contienen valores y estan relacionadas a un objeto.
+
+*Metodo: Un objeto tambien puede contener una funcion guardada en una propiedad la cual podemos invocar y este arreglo es lo que llamamos metodo.
+
+*Bucle for in: En cuanto a los objetos, si queremos realizar un recorrido por las propiedades tal y como lo hacemos con una matriz, debemos usar un for pero con subindice dado por una palabra clave 'in' y el nombre del objeto el cual queremos explorar. De esta manera recorreremos 
+cada clave del objeto hasta que iteremos todas las claves.
+
+*Notacion de puntos vs notacion cohorchetes: Para acceder los valores  en las propiedades del obejto, tenemos dos formas diferentes de hacerlo, una es la notación de puntos, en donde podemos llamar al nombre del objeto, un punto y el nombre de la clave; y la notación de corchetes, que sería como llamar a un elemento en una matriz. Se puede llamar a cada clave envolviéndola con comillas, la mayoria de los casos, los corchetes casi siempre se usan con variables.
+
