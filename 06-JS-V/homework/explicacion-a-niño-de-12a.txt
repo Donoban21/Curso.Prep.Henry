@@ -1,0 +1,8 @@
+Homework 06-JS-IV 
+Adan Berrio
+
+Explicando a un niño de 12 años.
+
+* `prototype`: Es una referencia que hace un objeto principal a un metodo ubicado en un 'objeto' secundario
+
+* _Constructors_ (de Clases): Es una forma util o un metodo util que nos permite inicializar y crear objetos
