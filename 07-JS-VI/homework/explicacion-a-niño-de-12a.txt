@@ -1,0 +1,7 @@
+Homework 07-JS-VI 
+Adan Berrio
+
+Explicando a un niño de 12 años.
+
+* Callback: Es la forma en la cual puedo acceder a una funcion como un argumento o variable, tambien 
+es posible usar una funcion como resultado o argumento de otra funcion. 
